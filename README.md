@@ -4,7 +4,7 @@
 [Открыть в Google Colab](https://colab.research.google.com/drive/1L-jBJy8gtMafNRdkJmU3rpzgRbk8u34_?usp=sharing)
 
 #### Видео URL
-[Ссылка на видеопрезентацию](https://drive.google.com/file/d/ваш_id_видео/view)
+[Ссылка на видеопрезентацию](https://drive.google.com/file/d/1QfBFo7YDEmH8EJHHliPuoyUXcOZMEHzn/view?usp=drive_link)
 
 #### Описание:
 
